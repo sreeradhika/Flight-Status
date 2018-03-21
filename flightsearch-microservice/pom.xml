@@ -65,7 +65,7 @@
 		      <groupId>org.springframework.boot</groupId>
 		      <artifactId>spring-boot-maven-plugin</artifactId>
 		      <configuration>
-		          <mainClass>com.flight.serach.FlightSearchAppConfig</mainClass>
+		          <mainClass>com.flight.search.FlightSearchAppConfig</mainClass>
 		        </configuration>
 		      <executions>
 		        <execution>
